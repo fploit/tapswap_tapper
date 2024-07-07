@@ -1,7 +1,0 @@
-pyTelegramBotAPI
-Telethon
-pillow
-selenium
-fake-useragent
-pytesseract
-opencv-python
